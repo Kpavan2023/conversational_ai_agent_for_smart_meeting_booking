@@ -1,0 +1,65 @@
+# =============================
+# Python
+# =============================
+__pycache__/
+*.py[cod]
+*.pyo
+*.so
+*.egg-info/
+
+# =============================
+# Virtual Environments
+# =============================
+venv/
+.venv/
+env/
+ENV/
+
+# =============================
+# Environment & Credentials
+# =============================
+.env
+credentials/
+token.pickle
+
+# =============================
+# Streamlit
+# =============================
+.streamlit/config.toml
+.streamlit/secrets.toml
+
+# =============================
+# Firebase
+# =============================
+firebase-debug.log
+.firebase/
+firebase.json
+
+# =============================
+# Logs / Temp / Editor Junk
+# =============================
+*.log
+*.tmp
+*.bak
+*.swp
+*.sqlite3
+.vscode/
+.DS_Store
+Thumbs.db
+
+# =============================
+# Node (if frontend extended)
+# =============================
+node_modules/
+package-lock.json
+yarn.lock
+
+# =============================
+# Build / Distribution
+# =============================
+build/
+dist/
+*.egg
+*.manifest
+*.spec
+*.map
