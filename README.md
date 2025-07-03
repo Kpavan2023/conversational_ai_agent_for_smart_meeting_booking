@@ -118,14 +118,6 @@ streamlit run frontend/app.py
 
 ---
 
-## 🌐 Deployed URL
-
-Once deployed, you can interact with the agent at:
-
-👉 [https://your-streamlit-app-link](https://your-streamlit-app-link) *(to be added after deployment)*
-
----
-
 ## 🏁 Final Notes
 
 - The booking assistant is designed to be intuitive and user-friendly.
@@ -138,5 +130,6 @@ Once deployed, you can interact with the agent at:
 ## 👨‍💻 Developed by
 
 **Pavan Kumar K** 
+
 **Karunakar K**
  
